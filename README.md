@@ -8,7 +8,7 @@ Este repositório contém o código-fonte do meu Mapa de Carreira profissional.
 
 ## 🎯 Sobre este Projeto
 
-Este não é um currículo tradicional. É um **plano de desenvolvimento profissional vivo**, que detalha minha jornada de **Estudante de Desenvolvimento Back-End** até **Engenheiro de Software Principal**.
+Este não é um currículo tradicional. É um **plano de desenvolvimento profissional vivo**, que detalha minha jornada de **Estudante de Desenvolvimento Back-End** até **Desenvolvedor Back-End Java Senior**.
 
 Eu o criei para:
 * **Definir com clareza** os meus objetivos de curto, médio e longo prazo.
